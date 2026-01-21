@@ -58,5 +58,6 @@ Algorithm takes:
 - Sentiment summary  
 - Theme summary  
 - All review text
+
 Then produces insights that summarize the feedback and few suggestions for improvement.
 
