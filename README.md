@@ -1,4 +1,4 @@
-# GIVA Feedback Hub — MERN Application  
+# GIVA Feedback Hub
 It is a small product called Feedback Hub for Giva, a jewelry brand. Customers leave reviews on products like rings, earrings, and necklaces. It collects this feedback, analyze it using simple logic , and show meaningful insights on a dashboard.
 <img width="1890" height="619" alt="Screenshot 2026-01-16 020541" src="https://github.com/user-attachments/assets/496db5a6-7d04-413c-bbe1-07ea937f186c" />
 <img width="1893" height="825" alt="Screenshot 2026-01-16 020553" src="https://github.com/user-attachments/assets/15ba9c4f-9bcf-492f-a7e0-63af37e46dc3" />
